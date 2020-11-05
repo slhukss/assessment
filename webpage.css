@@ -1,0 +1,12 @@
+body{
+      background: #b0c4de; /*lightsteelblue*/
+      font-family: Meiryo;
+}
+
+.video-js {
+    height: 344px;
+    width: 610px;
+  }
+  .hide-overlay .vjs-overlay {
+    display: none;
+  }
